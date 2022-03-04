@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GitHubStars</string>
+    <string name="avatar">Avatar</string>
+    <string name="retry">retry</string>
+    <string name="pull_to_refresh">Pull to retry.</string>
+    <string name="user_image">User avatar</string>
+    <string name="name">Name</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="public_repos">Public repos</string>
+    <string name="public_gists">Public gists</string>
+    <string name="location">Location</string>
+</resources>
