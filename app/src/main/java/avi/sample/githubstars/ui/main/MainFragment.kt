@@ -135,7 +135,7 @@ class MainFragment : Fragment() {
     }
 
     /**
-     * Observes the LoadState of paging data and sets various UI element accordingly.
+     * Observes the LoadState of paging data and sets various UI elements accordingly.
      */
     private fun observeLoadState() {
         viewLifecycleOwner.lifecycleScope.launch {
